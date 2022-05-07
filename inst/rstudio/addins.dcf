@@ -1,0 +1,4 @@
+Name: Rename Helper
+Description: Interactively generate code for rename or select column(s) of data.frame.
+Binding: renameR
+Interactive: true
